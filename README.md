@@ -1,3 +1,5 @@
+# Sheffield COM3110 Text Processing (AUTUMN 2023~24)
+
 ## Libraries
 - `nltk`: nltk library provides tools for preprocessing (e.g. stopwords, normalization)
     - `WordNetLemmatizer`: From `nltk.stem`, use for word form normalization
